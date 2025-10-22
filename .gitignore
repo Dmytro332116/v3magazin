@@ -2,3 +2,7 @@
 .cursor/
 .cursorignore
 
+
+# IDE/AI
+.cursor/
+.cursorignore
